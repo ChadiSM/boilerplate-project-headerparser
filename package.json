@@ -1,7 +1,7 @@
 {
-  "name": "request-header-parser-microservice",
+  "name": "headermicroservice",
   "version": "0.0.2",
-  "description": "API project for freeCodeCamp",
+  "description": " project for freeCodeCamp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-headerparser.git"
+    "url": "https://github.com/ChadiSM/boilerplate-project-headerparser"
   },
   "bugs": {
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
+    "url": "https://github.com/ChadiSM/boilerplate-project-headerparser"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-headerparser#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "homepage": "https://github.com/ChadiSM/boilerplate-project-headerparser",
+  "author": "Chadi",
   "keywords": [
     "freeCodeCamp",
     "node",
